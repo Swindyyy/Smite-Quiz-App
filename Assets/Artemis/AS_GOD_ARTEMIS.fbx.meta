@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 8fc6f09d405ff4249afb03bc93b26005
+timeCreated: 1462299906
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: B_bowFlew
+    100004: B_bowFlew_pt
+    100006: B_cape
+    100008: B_cape_pt
+    100010: Boob
+    100012: bowString
+    100014: EffectsSocket
+    100016: EyeBlink
+    100018: Hair00
+    100020: Hair01
+    100022: Hair02
+    100024: Hair03
+    100026: head
+    100028: L_Calf
+    100030: L_cape
+    100032: L_cape_pt
+    100034: L_Clavicle
+    100036: L_Finger0
+    100038: L_Finger01
+    100040: L_Finger02
+    100042: L_Finger1
+    100044: L_Finger11
+    100046: L_Finger12
+    100048: L_Finger2
+    100050: L_Finger21
+    100052: L_Finger22
+    100054: L_Finger3
+    100056: L_Finger31
+    100058: L_Finger32
+    100060: L_Finger4
+    100062: L_Finger41
+    100064: L_Finger42
+    100066: L_Foot
+    100068: L_Forearm_atm
+    100070: L_ForearmTwist01
+    100072: L_ForearmTwist02
+    100074: L_ForearmTwist03
+    100076: L_HairSide
+    100078: L_HairSide_pt
+    100080: L_Hand_atm
+    100082: L_shoulderDefCounter
+    100084: L_skirtBack
+    100086: L_skirtBack_pt
+    100088: L_skirtBottom
+    100090: L_skirtTop
+    100092: L_skirtTop_pt
+    100094: L_Thigh
+    100096: L_Toe0
+    100098: L_UpperArm
+    100100: Mesh0
+    100102: MIC_Artemis00
+    100104: mouth
+    100106: Neck
+    100108: Neck1
+    100110: Pelvis
+    100112: PelvisWeighted
+    100114: Prop1
+    100116: Prop1_sc
+    100118: Prop2
+    100120: Prop2_sc
+    100122: quiver
+    100124: quiver_pt
+    100126: R_Calf
+    100128: R_cape
+    100130: R_cape_pt
+    100132: R_Clavicle
+    100134: R_Finger0
+    100136: R_Finger01
+    100138: R_Finger02
+    100140: R_Finger1
+    100142: R_Finger11
+    100144: R_Finger12
+    100146: R_Finger2
+    100148: R_Finger21
+    100150: R_Finger22
+    100152: R_Finger3
+    100154: R_Finger31
+    100156: R_Finger32
+    100158: R_Finger4
+    100160: R_Finger41
+    100162: R_Finger42
+    100164: R_Foot
+    100166: R_Forearm_atm
+    100168: R_ForearmTwist01
+    100170: R_ForearmTwist02
+    100172: R_ForearmTwist03
+    100174: R_HairSide
+    100176: R_HairSide_pt
+    100178: R_Hand_atm
+    100180: R_ShoulderDefCounter
+    100182: R_skirtBack
+    100184: R_skirtBack_pt
+    100186: R_skirtBottom
+    100188: R_skirtTop
+    100190: R_skirtTop_pt
+    100192: R_Thigh
+    100194: R_Toe0
+    100196: R_UpperArm
+    100198: Root
+    100200: scarf_00
+    100202: Scarf_01
+    100204: Scarf_02
+    100206: Scarf_03
+    100208: scarf_04
+    100210: Snap
+    100212: Spine
+    100214: Spine1
+    100216: Spine2
+    100218: T_bowFlew
+    100220: T_bowFlew_pt
+    400000: //RootNode
+    400002: B_bowFlew
+    400004: B_bowFlew_pt
+    400006: B_cape
+    400008: B_cape_pt
+    400010: Boob
+    400012: bowString
+    400014: EffectsSocket
+    400016: EyeBlink
+    400018: Hair00
+    400020: Hair01
+    400022: Hair02
+    400024: Hair03
+    400026: head
+    400028: L_Calf
+    400030: L_cape
+    400032: L_cape_pt
+    400034: L_Clavicle
+    400036: L_Finger0
+    400038: L_Finger01
+    400040: L_Finger02
+    400042: L_Finger1
+    400044: L_Finger11
+    400046: L_Finger12
+    400048: L_Finger2
+    400050: L_Finger21
+    400052: L_Finger22
+    400054: L_Finger3
+    400056: L_Finger31
+    400058: L_Finger32
+    400060: L_Finger4
+    400062: L_Finger41
+    400064: L_Finger42
+    400066: L_Foot
+    400068: L_Forearm_atm
+    400070: L_ForearmTwist01
+    400072: L_ForearmTwist02
+    400074: L_ForearmTwist03
+    400076: L_HairSide
+    400078: L_HairSide_pt
+    400080: L_Hand_atm
+    400082: L_shoulderDefCounter
+    400084: L_skirtBack
+    400086: L_skirtBack_pt
+    400088: L_skirtBottom
+    400090: L_skirtTop
+    400092: L_skirtTop_pt
+    400094: L_Thigh
+    400096: L_Toe0
+    400098: L_UpperArm
+    400100: Mesh0
+    400102: MIC_Artemis00
+    400104: mouth
+    400106: Neck
+    400108: Neck1
+    400110: Pelvis
+    400112: PelvisWeighted
+    400114: Prop1
+    400116: Prop1_sc
+    400118: Prop2
+    400120: Prop2_sc
+    400122: quiver
+    400124: quiver_pt
+    400126: R_Calf
+    400128: R_cape
+    400130: R_cape_pt
+    400132: R_Clavicle
+    400134: R_Finger0
+    400136: R_Finger01
+    400138: R_Finger02
+    400140: R_Finger1
+    400142: R_Finger11
+    400144: R_Finger12
+    400146: R_Finger2
+    400148: R_Finger21
+    400150: R_Finger22
+    400152: R_Finger3
+    400154: R_Finger31
+    400156: R_Finger32
+    400158: R_Finger4
+    400160: R_Finger41
+    400162: R_Finger42
+    400164: R_Foot
+    400166: R_Forearm_atm
+    400168: R_ForearmTwist01
+    400170: R_ForearmTwist02
+    400172: R_ForearmTwist03
+    400174: R_HairSide
+    400176: R_HairSide_pt
+    400178: R_Hand_atm
+    400180: R_ShoulderDefCounter
+    400182: R_skirtBack
+    400184: R_skirtBack_pt
+    400186: R_skirtBottom
+    400188: R_skirtTop
+    400190: R_skirtTop_pt
+    400192: R_Thigh
+    400194: R_Toe0
+    400196: R_UpperArm
+    400198: Root
+    400200: scarf_00
+    400202: Scarf_01
+    400204: Scarf_02
+    400206: Scarf_03
+    400208: scarf_04
+    400210: Snap
+    400212: Spine
+    400214: Spine1
+    400216: Spine2
+    400218: T_bowFlew
+    400220: T_bowFlew_pt
+    4300000: Mesh0
+    4300002: MIC_Artemis00
+    7400000: Animation
+    7400002: Idle
+    9500000: //RootNode
+    13700000: Mesh0
+    13700002: MIC_Artemis00
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Animation
+      takeName: Animation
+      firstFrame: 0
+      lastFrame: 2512
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mesh0
+        weight: 1
+      - path: MIC_Artemis00
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/EffectsSocket
+        weight: 1
+      - path: Root/Pelvis
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_skirtBack_pt
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_skirtBack_pt/L_skirtBack
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh/L_Calf
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh/L_Calf/L_Foot
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh/L_Calf/L_Foot/L_Toe0
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh/L_skirtTop_pt
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh/L_skirtTop_pt/L_skirtTop
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh/L_skirtTop_pt/L_skirtTop/L_skirtBottom
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/quiver_pt
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/quiver_pt/quiver
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_skirtBack_pt
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_skirtBack_pt/R_skirtBack
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh/R_Calf
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh/R_Calf/R_Foot
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh/R_Calf/R_Foot/R_Toe0
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh/R_skirtTop_pt
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh/R_skirtTop_pt/R_skirtTop
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh/R_skirtTop_pt/R_skirtTop/R_skirtBottom
+        weight: 1
+      - path: Root/Pelvis/Spine
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/B_cape_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/B_cape_pt/B_cape
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Boob
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_cape_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_cape_pt/L_cape
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_shoulderDefCounter
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_ForearmTwist01
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_ForearmTwist02
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_ForearmTwist03
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger0
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger0/L_Finger01
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger0/L_Finger01/L_Finger02
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger1
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger1/L_Finger11
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger1/L_Finger11/L_Finger12
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger2
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger2/L_Finger21
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger2/L_Finger21/L_Finger22
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger3
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger3/L_Finger31
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger3/L_Finger31/L_Finger32
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger4
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger4/L_Finger41
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger4/L_Finger41/L_Finger42
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/Prop2
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/Prop2/B_bowFlew_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/Prop2/B_bowFlew_pt/B_bowFlew
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/Prop2/bowString
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/Prop2/T_bowFlew_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/Prop2/T_bowFlew_pt/T_bowFlew
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/EyeBlink
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/Hair00
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/Hair00/Hair01
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/Hair00/Hair01/Hair02
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/Hair00/Hair01/Hair02/Hair03
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/L_HairSide_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/L_HairSide_pt/L_HairSide
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/mouth
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/R_HairSide_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/R_HairSide_pt/R_HairSide
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_cape_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_cape_pt/R_cape
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_ShoulderDefCounter
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_ForearmTwist01
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_ForearmTwist02
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_ForearmTwist03
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/Prop1
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger0
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger0/R_Finger01
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger0/R_Finger01/R_Finger02
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger1
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger1/R_Finger11
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger1/R_Finger11/R_Finger12
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger2
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger2/R_Finger21
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger2/R_Finger21/R_Finger22
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger3
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger3/R_Finger31
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger3/R_Finger31/R_Finger32
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger4
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger4/R_Finger41
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger4/R_Finger41/R_Finger42
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/scarf_00
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/scarf_00/Scarf_01
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/scarf_00/Scarf_01/Scarf_02
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/scarf_00/Scarf_01/Scarf_02/Scarf_03
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/scarf_00/Scarf_01/Scarf_02/Scarf_03/scarf_04
+        weight: 1
+      - path: Root/Prop1_sc
+        weight: 1
+      - path: Root/Prop2_sc
+        weight: 1
+      - path: Root/Snap
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Animation
+      firstFrame: 922
+      lastFrame: 998
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mesh0
+        weight: 1
+      - path: MIC_Artemis00
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/EffectsSocket
+        weight: 1
+      - path: Root/Pelvis
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_skirtBack_pt
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_skirtBack_pt/L_skirtBack
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh/L_Calf
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh/L_Calf/L_Foot
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh/L_Calf/L_Foot/L_Toe0
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh/L_skirtTop_pt
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh/L_skirtTop_pt/L_skirtTop
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/L_Thigh/L_skirtTop_pt/L_skirtTop/L_skirtBottom
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/quiver_pt
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/quiver_pt/quiver
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_skirtBack_pt
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_skirtBack_pt/R_skirtBack
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh/R_Calf
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh/R_Calf/R_Foot
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh/R_Calf/R_Foot/R_Toe0
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh/R_skirtTop_pt
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh/R_skirtTop_pt/R_skirtTop
+        weight: 1
+      - path: Root/Pelvis/PelvisWeighted/R_Thigh/R_skirtTop_pt/R_skirtTop/R_skirtBottom
+        weight: 1
+      - path: Root/Pelvis/Spine
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/B_cape_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/B_cape_pt/B_cape
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Boob
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_cape_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_cape_pt/L_cape
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_shoulderDefCounter
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_ForearmTwist01
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_ForearmTwist02
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_ForearmTwist03
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger0
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger0/L_Finger01
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger0/L_Finger01/L_Finger02
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger1
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger1/L_Finger11
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger1/L_Finger11/L_Finger12
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger2
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger2/L_Finger21
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger2/L_Finger21/L_Finger22
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger3
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger3/L_Finger31
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger3/L_Finger31/L_Finger32
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger4
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger4/L_Finger41
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/L_Finger4/L_Finger41/L_Finger42
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/Prop2
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/Prop2/B_bowFlew_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/Prop2/B_bowFlew_pt/B_bowFlew
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/Prop2/bowString
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/Prop2/T_bowFlew_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/L_Clavicle/L_UpperArm/L_Forearm_atm/L_Hand_atm/Prop2/T_bowFlew_pt/T_bowFlew
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/EyeBlink
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/Hair00
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/Hair00/Hair01
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/Hair00/Hair01/Hair02
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/Hair00/Hair01/Hair02/Hair03
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/L_HairSide_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/L_HairSide_pt/L_HairSide
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/mouth
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/R_HairSide_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/Neck1/head/R_HairSide_pt/R_HairSide
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_cape_pt
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_cape_pt/R_cape
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_ShoulderDefCounter
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_ForearmTwist01
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_ForearmTwist02
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_ForearmTwist03
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/Prop1
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger0
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger0/R_Finger01
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger0/R_Finger01/R_Finger02
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger1
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger1/R_Finger11
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger1/R_Finger11/R_Finger12
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger2
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger2/R_Finger21
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger2/R_Finger21/R_Finger22
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger3
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger3/R_Finger31
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger3/R_Finger31/R_Finger32
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger4
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger4/R_Finger41
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/Neck/R_Clavicle/R_UpperArm/R_Forearm_atm/R_Hand_atm/R_Finger4/R_Finger41/R_Finger42
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/scarf_00
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/scarf_00/Scarf_01
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/scarf_00/Scarf_01/Scarf_02
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/scarf_00/Scarf_01/Scarf_02/Scarf_03
+        weight: 1
+      - path: Root/Pelvis/Spine/Spine1/Spine2/scarf_00/Scarf_01/Scarf_02/Scarf_03/scarf_04
+        weight: 1
+      - path: Root/Prop1_sc
+        weight: 1
+      - path: Root/Prop2_sc
+        weight: 1
+      - path: Root/Snap
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
